@@ -1,1 +1,1 @@
-# MySupeProject1
+# MySuperProject1
